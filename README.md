@@ -1,1 +1,1 @@
-# PyrosettaEnergyAnalizer
+# PyrosettaEnergyAnalisis
